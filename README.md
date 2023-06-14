@@ -59,7 +59,7 @@ _Luego solo ejecutaremos el testng.xml para los TestCase de Tiendamia (Con TestN
 _Estas pruebas automatizadas validan que el flujo de compras funcione correctamente_
 
 ```
-Para visualizar el reporte de ExtentReport ir a la siguiente ruta: /YOUR-REPOSITORY/test-output/env/STMExtentReport.html
+Para visualizar el reporte de ExtentReport ir a la siguiente ruta: /YOUR-REPOSITORY/report/ExtentReportResults.html
 ```
 ## Construido con 🛠️
 
