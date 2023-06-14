@@ -21,6 +21,7 @@ Java 8+
 IDE Eclipse o el de tu preferencia.
 Tener instalado TestNG en el IDE
 Tener ingresada las variables de entorno como JAVA_HOME
+Tener actualizado la version de Chrome a la 114 (Si es una atras o mas adelante, se tendra que actualizar el chrome driver resources/driver/chromedriver.exe)
 
 ```
 
